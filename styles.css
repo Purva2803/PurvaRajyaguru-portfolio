@@ -13,6 +13,8 @@ body{
     display: inline;
     margin-right: 10px;
     margin-left: 10px;
+    color: black;
+    font-style: bold;
 }
 .nav{
     background-color:#fecaca;
@@ -23,6 +25,9 @@ body{
 }
 a{
     color: black;
+    font-style: bold;
+    text-decoration: none;
+    font-weight: 800;
 }
 h3{
     text-align: center;
@@ -43,3 +48,16 @@ footer{
     height:350px;
 
  }
+
+ #para{
+    text-align: center;
+ }
+button{
+    text-align: center;
+    border: 20px solid white;
+    box-sizing: content-box;
+    height: auto;
+    background: #fecaca;
+    border-radius: 10px ;
+ }
+
