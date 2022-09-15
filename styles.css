@@ -64,3 +64,15 @@ button{
  div{
     text-align: center;
  }
+.b1{
+    border: 5px solid #fecaca;;
+    box-sizing: content-box;
+    border-radius: 10px ;
+    box-sizing: border-box;
+    gap: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
