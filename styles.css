@@ -21,8 +21,14 @@ body{
     color: black;
     padding:1rem;
     border-bottom-left-radius: 1rem;
+    
 
 }
+a:hover{
+
+    font-size: larger;
+}
+
 a{
     color: black;
     font-style: bold;
