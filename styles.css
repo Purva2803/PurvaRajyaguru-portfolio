@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
-
-
+@media screen and (max-width:200px) {
+    body {
+        text-align: center;
+        
+    }
+}
 body{
     font-family: 'Changa',sans-serif;
 }
@@ -8,7 +12,6 @@ body{
      
     list-style:none;
     text-align: right;
-
     
 }
 .link{
@@ -85,16 +88,5 @@ button{
     margin-top: 20px;
     margin-bottom: 20px;
     padding:0px;
-    
-}
-@media screen and (max-width:600px) {
-    .b1{       
-        width:100%;
-        margin: 0%;
-    }
-    .inline-none{
-        display: flex;
-        justify-content: space-evenly;
-    }
     
 }
