@@ -1,10 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Changa&display=swap');
-@media screen and (max-width:200px) {
-    body {
-        text-align: center;
-        
-    }
-}
+
 body{
     font-family: 'Changa',sans-serif;
 }
